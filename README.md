@@ -11,3 +11,7 @@
     
 * **supplement**: 作業研究課業守護學伴
   *  Gurobi 示範教學
+
+
+## Notice
+若 PDF 檔發生 `Unable to render code bloc` 無法閱讀時，請重新刷新網頁。
